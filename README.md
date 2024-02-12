@@ -1,2 +1,2 @@
 # tipis-homework
-«Теория информационных процессов и систем»
+Homework on the discipline "Theory of information processes and systems". Implementation of the basic regulatory principles of management.
